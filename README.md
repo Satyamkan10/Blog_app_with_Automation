@@ -22,4 +22,9 @@ The main idea behind this project is to avoid manual server setup and make the a
 - VirtualBox / VMware  
 - Shell Scripting (Bash)  
 - Linux  
-- Blog Application  
+- Blog Application
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+  
